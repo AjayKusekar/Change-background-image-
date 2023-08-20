@@ -1,0 +1,97 @@
+#z{
+   background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-image: url(https://wallpaperaccess.com/full/1104073.jpg);
+}
+#a{
+    font-size: 15px;
+    font-family: sans-serif;
+    color: blue;
+}
+#c{
+    font-size: 15px;
+    font-family: sans-serif;
+    color: red;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 50% 50%;
+}
+#d{
+    font-size: 15px;
+    font-family: sans-serif;
+    color: green;
+}
+#e{
+    font-size: 15px;
+    font-family: sans-serif;
+    color: red;
+}
+#f{
+    font-size: 15px;
+    font-family: sans-serif;
+    color: black;
+}
+#g{
+    font-size: 15px;
+    font-family: sans-serif;
+    color: orange;
+}
+#h{
+    font-size: 15px;
+    font-family: sans-serif;
+    color: black;
+}
+#i{
+    font-size: 15px;
+    font-family: sans-serif;
+    color: red;
+}
+.ajay{
+    position: relative;
+    padding: 5px 10px;
+    font-family: sans-serif;
+    font-size: 20px;
+    margin-left: 50px;
+    border-style: 2px solid;
+    border-radius: 10px;
+    border-color: darkblue;
+    box-shadow: 0px 0px 30px black;
+    margin-top: 40px;
+    border-color: darkblue;
+    color: white;
+    letter-spacing: 2px;
+    font-weight: 500;
+    background: transparent;
+    transition: background-color 2s;
+}
+option,.ajay:hover{
+    transform: translateY(-3px);
+    background-color: darkblue;
+    cursor: pointer;
+}
+#change{
+    position: relative;
+    padding: 5px 10px;
+    font-family: sans-serif;
+    font-size: 20px;
+    margin-left: 10px;
+    border-style: 2px solid;
+    border-radius: 10px;
+    border-color: darkblue;
+    box-shadow: 0px 0px 30px black;
+    margin-top: 40px;
+    color: white;
+    letter-spacing: 2px;
+    font-weight: 500;
+    background: darkblue;
+    transition: background-color 2s;
+    border-color: darkblue;
+}
+#change:hover
+{
+     transform: translateY(-3px);
+    cursor: pointer;
+}
